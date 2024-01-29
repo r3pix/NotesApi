@@ -1,0 +1,8 @@
+﻿{
+  "JWTConfiguration": {
+    "Issuer": "NotesApi",
+    "Audience": "NotesApi",
+    "SecretKey": "W0AHVgqmihz5vfT68uQ4MqtwaEaHcyni",
+    "LifeTimeEnabled": true
+  }
+}
